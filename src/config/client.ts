@@ -79,7 +79,7 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "Lindesay Metcalfe", rating: 5, text: "James pruned our out of control wisteria with humour and efficient professionalism. His priority at all times was to create an outcome that fitted our expectations. A thoroughly good job and we will certainly use his services again. ", date: "7 months ago" },
+    { name: "Lindesay Metcalfe", rating: 5, text: "James pruned our out of control wisteria with humour and efficient professionalism. His priority at all times was to create an outcome that fitted our expectations. A thoroughly good job and we will certainly use his services again.", date: "7 months ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
